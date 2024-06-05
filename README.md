@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Milan TURCANO</h1>
 <h3 align="center">I'm a passionate Web developper !</h3>
 
-- 🔭 I’m currently working on [partytimesono.fr](https://www.partytimesono.fr/)
+- 🔭 I’m currently working on nothing special !
 
 - 🌱 I’m currently learning **three.js**
 
-- 👨‍💻 All of my projects are available at **milanturcano.fr**
+- 👨‍💻 All of my projects are available at [milanturcano.fr](milanturcano.fr)
 
 - 📫 How to reach me **contact@milanturcano.fr**
 
