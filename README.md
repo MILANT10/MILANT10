@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on nothing special !
 
-- 🌱 I’m currently learning **three.js**
+- 🌱 I’m currently learning **nextjs**
 
 - 👨‍💻 All of my projects are available at [milanturcano.fr](milanturcano.fr)
 
