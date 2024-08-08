@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on nothing special !
 
-- 🌱 I’m currently learning **nextjs**
+- 🌱 I’m currently learning **nothing special for the moment**
 
 - 👨‍💻 All of my projects are available at [milanturcano.fr](milanturcano.fr)
 
