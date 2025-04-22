@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Milan TURCANO</h1>
 <h3 align="center">I'm a passionate Web developper ! And future game developper !</h3>
 
-- 🔭 I’m currently working on **nothing special**
+- 🔭 I’m currently working on **e-commerce website** for a client
 
 - 👨‍💻 All of my projects are available at [milanturcano.fr](milanturcano.fr)
 
