@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Milan TURCANO</h1>
-<h3 align="center">I'm a passionate Web developper ! And future game developper !</h3>
+<h3 align="center">I'm a passionate Web developper ! And a solo game developper !</h3>
 
-- 🔭 I’m currently working on **e-commerce website** for a client
+- 🔭 I’m currently working on **video booth solution** for a client
 
 - 👨‍💻 All of my projects are available at [milanturcano.fr](milanturcano.fr)
-
-- 📝 I regularly write articles on [https://x.com/MilanTurcano](https://x.com/MilanTurcano)
 
 - 📫 How to reach me **contact@milanturcano.fr**
 
