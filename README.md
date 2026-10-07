@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Milan TURCANO</h1>
 <h3 align="center">I'm a passionate Web developper ! And a solo game developper !</h3>
 
-- 🔭 I’m currently working on **video booth solution** for a client
+- 🔭 I’m currently pursuing a master’s in computer science 
 
 - 👨‍💻 All of my projects are available at [milanturcano.fr](milanturcano.fr)
 
